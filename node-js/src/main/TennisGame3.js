@@ -29,4 +29,5 @@ export default class TennisGame3 {
         else
             this.p2 += 1;
     }
+
 }
